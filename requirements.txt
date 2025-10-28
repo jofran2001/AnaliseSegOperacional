@@ -1,0 +1,15 @@
+# Core web application framework
+streamlit
+
+# Data manipulation and analysis
+pandas
+
+# Interactive data visualization
+plotly
+
+# Additional visualization libraries
+matplotlib
+seaborn
+
+# Code quality and style checker
+pylint
